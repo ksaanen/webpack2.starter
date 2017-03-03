@@ -1,0 +1,27 @@
+{
+  "name": "webpack2.starter",
+  "version": "1.0.0",
+  "description": "webpack starter template",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksaanen/webpack2.starter.git"
+  },
+  "keywords": [
+    "setup",
+    "template",
+    "node"
+  ],
+  "author": "Kevin Saanen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ksaanen/webpack2.starter/issues"
+  },
+  "homepage": "https://github.com/ksaanen/webpack2.starter#readme",
+  "dependencies": {
+    "typescript": "^2.2.1"
+  }
+}
