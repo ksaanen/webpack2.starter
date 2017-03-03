@@ -1,8 +1,9 @@
 (function(){
 
   'use strict';
-  console.log('something test');
 
-  let bla:string = 'bla';
+  let example:string = 'testing';
+
+  document.body.innerHTML = example;
 
 })();  
