@@ -1,2 +1,6 @@
 # webpack2.starter
-Starter setup with webpack(2)
+Base setup of TypeScript and webpack 2 for development.
+
+## Preparation
+- run "npm install" from project root directory.
+- run "npm start" from project root directory to start up the server
