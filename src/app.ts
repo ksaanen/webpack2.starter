@@ -1,5 +1,8 @@
-'use strict';
-console.log('something test');
+(function(){
 
-let bla:string = 'bla';
+  'use strict';
+  console.log('something test');
 
+  let bla:string = 'bla';
+
+})();  
