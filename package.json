@@ -4,7 +4,8 @@
   "description": "webpack starter template",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server"
+    "start-dev": "webpack-dev-server --config ./webpack.development.config.js",
+    "build-prod": "webpack -p --config ./webpack.production.config.js"
   },
   "repository": {
     "type": "git",
